@@ -1,2 +1,3 @@
 # Go-cli
-A simple cli in go
+A simple quiz game cli using go and cobra-cli framework
+
